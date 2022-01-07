@@ -1,5 +1,5 @@
 N, M = [int(x) for x in input().split(' ')]
-# M = 3 * N
+# M = 3 * N, N - odd
 
 
 msg = 'WELCOME'.center(M, '-')
